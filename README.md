@@ -1,1 +1,1 @@
-Example Usage : Python webscaner.py
+# Example Usage : Python webscaner.py
